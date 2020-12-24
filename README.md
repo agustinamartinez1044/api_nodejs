@@ -1,6 +1,6 @@
 # api_nodejs
  
-Desarrollar una API que debe ser capaz de dar soportar a las siguientes acciones que serán
+Desarrollo de una API capaz de dar soportar a las siguientes acciones que serán
 consumidas por aplicaciones clientes :
 - registrar usuario
 - autenticar usuario
